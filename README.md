@@ -1,0 +1,2 @@
+# Fractals_Using_Random_Numbers
+Codes demonstrating the difference between fractals generated using determinacy and fractals generated using indeterminacy in order to show how the change of certain static variables into random ones allows for more organic, but nevertheless self-similar, features to form from what would otherwise be standard, repeating patterns. This work is part of a larger branch of research into using true random number generators, such as quantum RNGs, to produce truly random fractal patterns that can simulate nature.
